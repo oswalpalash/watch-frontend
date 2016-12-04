@@ -1,0 +1,29 @@
+.form-group.top_search {
+  width: 70%;
+  margin: 0 auto;
+}
+.top_search .form-control {
+  height: 50px;
+}
+.top_search .input-group-btn button {
+  height: 50px;
+  width: 60px;
+}
+.top_search .input-group-btn button {
+  color: #fff;
+}
+.full-width {
+  width: 100%;
+}
+.location-select {
+  width: 33%;
+  display: inline-block;;
+}
+.nav-md .container.body .right_col, .main_container .top_nav, footer {
+    margin-left: 0px;
+}
+.jqstooltip {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
